@@ -1,78 +1,109 @@
 ---
 layout: default
-title: Awards
+title: Awards & Honors
 ---
 
-## Texas A&M University
-<ul style="list-style-type: none; padding-left: 0;">
-  <li>
-    <strong>Emanuel Parzen Graduate Research Fellowship Award</strong> – for demonstrating exemplary research, above and beyond what is expected for graduation <span style="float:right;"><em>2025</em></span>
-  </li>
-  <li>
-    <strong>IMS Hannan Graduate Student Travel Award</strong> – for presenting "Global-Local Dirichlet Processes for Clustering Grouped Data in the Presence of Group-Specific Idiosyncratic Variables" at the 14th International Conference on Bayesian Nonparametrics, UCLA, USA <span style="float:right;"><em>2025</em></span>
-  </li>
-  <li>
-    <strong>2025 SETCASA Poster Competition Golden Award</strong> – for poster on "Global-Local Dirichlet Processes for Clustering Grouped Data in the Presence of Group-Specific Idiosyncratic Variables" <span style="float:right;"><em>2025</em></span>
-  </li>
-  <li>
-    <strong>BNP-ISBA Travel Award</strong> – for presenting "Global-Local Dirichlet Processes for Clustering Grouped Data in the Presence of Group-Specific Idiosyncratic Variables" at the 14th International Conference on Bayesian Nonparametrics, UCLA, USA <span style="float:right;"><em>2025</em></span>
-  </li>
-  <li>
-    <strong>SBSS Student Paper Award</strong> – for "Graphical Dirichlet Process for Clustering Non-Exchangeable Grouped Data", awarded by the American Statistical Association <span style="float:right;"><em>2024</em></span>
-  </li>
-  <li>
-    <strong>ISBA Travel Award</strong> – for presenting "Graphical Dirichlet Process for Clustering Non-Exchangeable Grouped Data" at the ISBA World Meeting, Venice, Italy <span style="float:right;"><em>2024</em></span>
-  </li>
-  <li>
-    <strong>Poster Award</strong> – for poster on "Joint Bayesian estimation of cell dependence and gene associations in spatially resolved transcriptomic data", awarded by the 6th Annual Symposium Cancer Research: Basic Science to Bioinformatics
-  </li>
-  <li>
-    <strong>ISBA Travel Award</strong> – for presenting "Graphical Dirichlet Process for Clustering Non-Exchangeable Grouped Data" at Bayesian Nonparametrics Networking Workshop, Melbourne, Australia <span style="float:right;"><em>2023</em></span>
-  </li>
-  <li>
-    <strong>Invited Member</strong> – Phi-Kappa-Phi (all-discipline honor society) <span style="float:right;"><em>2023</em></span>
-  </li>
-  <li>
+<style>
+.timeline {
+  position: relative;
+  max-width: 800px;
+  margin: 0 auto;
+  padding-left: 20px;
+}
 
----
- ## University of Calcutta
+.timeline::after {
+  content: '';
+  position: absolute;
+  width: 4px;
+  background-color: #800000;
+  top: 0;
+  bottom: 0;
+  left: 40px;
+  margin-left: -2px;
+}
 
- <li>
-    <strong>Gold Medal in M.Sc. Statistics</strong> – awarded for being the University Topper at University of Calcutta <span style="float:right;"><em>2016</em></span>
-  </li>
+.timeline-item {
+  padding: 20px 0 20px 80px;
+  position: relative;
+}
 
-  <li>
-    <strong>R.C. Bose Book Prize</strong> – for securing First position in Semester I and Semester II of M.Sc. course (awarded by the Calcutta Statistical Association) <span style="float:right;"><em>2016</em></span>
-  </li>
+.timeline-item::before {
+  content: '';
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  right: auto;
+  left: 32px;
+  background-color: #800000;
+  border-radius: 50%;
+  top: 25px;
+}
 
-  <li>
-    <strong>DST INSPIRE Scholarship</strong> – awarded to top undergraduate students for pursuing graduate courses in Natural and Basic Sciences
-  </li>
+.timeline-year {
+  font-weight: bold;
+  font-size: 1.1em;
+  color: #800000;
+  margin-bottom: 5px;
+}
 
-</ul>
+.timeline-university {
+  font-weight: bold;
+  font-size: 1em;
+  margin-bottom: 5px;
+}
 
----
- ## Presidency University
+.timeline-description {
+  margin-bottom: 10px;
+}
+</style>
 
-<li>
-    <strong>Gold Medal in B.Sc. Honours in Statistics</strong> – awarded for being the University Topper
-  </li>
+<div class="timeline">
 
-  <li>
-    <strong>The Oxford Book Grant</strong> – for securing the highest marks in the Science stream of the University
-  </li>
+<!-- Texas A&M University -->
+<div class="timeline-item">
+  <div class="timeline-year">2025</div>
+  <div class="timeline-university">Texas A&M University</div>
+  <div class="timeline-description"><strong>Emanuel Parzen Graduate Research Fellowship Award</strong> – for demonstrating exemplary research above and beyond expectations.</div>
+  <div class="timeline-description"><strong>IMS Hannan Graduate Student Travel Award</strong> – for presenting "Global-Local Dirichlet Processes..." at the 14th International Conference on Bayesian Nonparametrics, UCLA, USA.</div>
+  <div class="timeline-description"><strong>2025 SETCASA Poster Competition Golden Award</strong> – for poster on "Global-Local Dirichlet Processes...".</div>
+  <div class="timeline-description"><strong>BNP-ISBA Travel Award</strong> – presented at the 14th International Conference on Bayesian Nonparametrics, UCLA, USA.</div>
+</div>
 
-  <li>
-    <strong>Prof. Anil Kumar Bhattacharya Memorial Prize</strong> – for securing the highest score among all streams within the department
-  </li>
+<div class="timeline-item">
+  <div class="timeline-year">2024</div>
+  <div class="timeline-university">Texas A&M University</div>
+  <div class="timeline-description"><strong>SBSS Student Paper Award</strong> – "Graphical Dirichlet Process for Clustering Non-Exchangeable Grouped Data", American Statistical Association.</div>
+  <div class="timeline-description"><strong>ISBA Travel Award</strong> – for presenting at ISBA World Meeting, Venice, Italy.</div>
+  <div class="timeline-description"><strong>Poster Award</strong> – for poster on "Joint Bayesian estimation of cell dependence and gene associations" at 6th Annual Symposium Cancer Research.</div>
+</div>
 
-  <li>
-    <strong>Dr. Syama Prasad Mookherjee Gold Medal</strong> – for scholastic record in undergraduate major
-  </li>
+<div class="timeline-item">
+  <div class="timeline-year">2023</div>
+  <div class="timeline-university">Texas A&M University</div>
+  <div class="timeline-description"><strong>ISBA Travel Award</strong> – presented at Bayesian Nonparametrics Networking Workshop, Melbourne, Australia.</div>
+  <div class="timeline-description"><strong>Invited Member</strong> – Phi-Kappa-Phi honor society.</div>
+</div>
 
-  <li>
-    <strong>DST INSPIRE Scholarship</strong> – awarded to top high school students for pursuing undergraduate courses in Natural and Basic Sciences
-  </li>
+<!-- University of Calcutta -->
+<div class="timeline-item">
+  <div class="timeline-year">2016</div>
+  <div class="timeline-university">University of Calcutta</div>
+  <div class="timeline-description"><strong>Gold Medal in M.Sc. Statistics</strong> – awarded for being University Topper.</div>
+  <div class="timeline-description"><strong>R.C. Bose Book Prize</strong> – First position in Semester I & II of M.Sc. course (Calcutta Statistical Association).</div>
+  <div class="timeline-description"><strong>DST INSPIRE Scholarship</strong> – awarded to top undergraduate students for graduate studies in Natural and Basic Sciences.</div>
+</div>
+
+<!-- Presidency University -->
+<div class="timeline-item">
+  <div class="timeline-university">Presidency University</div>
+  <div class="timeline-description"><strong>Gold Medal in B.Sc. Honours in Statistics</strong> – awarded for being University Topper.</div>
+  <div class="timeline-description"><strong>The Oxford Book Grant</strong> – for securing highest marks in Science stream.</div>
+  <div class="timeline-description"><strong>Prof. Anil Kumar Bhattacharya Memorial Prize</strong> – for highest score among all streams in the department.</div>
+  <div class="timeline-description"><strong>Dr. Syama Prasad Mookherjee Gold Medal</strong> – for scholastic record in UG major.</div>
+  <div class="timeline-description"><strong>DST INSPIRE Scholarship</strong> – awarded to top high school students for pursuing undergraduate courses.</div>
+</div>
+
+</div>
 
 </ul>
 
