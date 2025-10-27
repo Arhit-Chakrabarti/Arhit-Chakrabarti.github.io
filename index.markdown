@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 permalink: /
-hide_title: true
+weight: 1
 ---
 
 <!-- Profile picture floated left -->
