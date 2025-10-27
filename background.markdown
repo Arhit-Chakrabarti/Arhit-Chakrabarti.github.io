@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Background
+weight: 2
 ---
 
 ## Education
