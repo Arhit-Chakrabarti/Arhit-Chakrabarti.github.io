@@ -3,7 +3,7 @@ layout: default
 title: Background
 ---
 
-## 🎓 Education
+## Education
 
 <div style="margin-bottom: 30px; padding: 15px; background-color:#f9f9f9; border-left:5px solid #800000; border-radius:5px;">
 
@@ -29,7 +29,7 @@ title: Background
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 <div style="margin-bottom: 30px; padding: 15px; background-color:#f9f9f9; border-left:5px solid #800000; border-radius:5px;">
 
