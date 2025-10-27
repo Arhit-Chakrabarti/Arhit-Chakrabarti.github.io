@@ -46,7 +46,7 @@ title: Research
 ## Other Contributions
 
 - **Chakrabarti, A.**, Ganguli, B., Nevo, D., Lok, J., Spiegelman, D. (2018 - 2019).  
-  "Analysis of “Learn-As-You Go” (LAGO) study and extension for multi-stages and mixed intervention: Application to the ESSENCE study." [code](https://github.com/Arhit-Chakrabarti/logisticLAGO)
+  "Analysis of “Learn-As-You Go” (LAGO) study and extension for multi-stages and mixed intervention: Application to the ESSENCE study." [[code](https://github.com/Arhit-Chakrabarti/logisticLAGO)]
 
 - **Chakrabarti, A.**, Ganguli, B. (2017 - 2018).  
   "Functional Data Analysis for Gait Data."
