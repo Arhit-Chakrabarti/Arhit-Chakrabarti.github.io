@@ -13,6 +13,7 @@ title: Research
 
 *See my google scholar profile [here](https://scholar.google.com/citations?user=bktKcZQAAAAJ&hl=en) for the most updated list of publications*.
 
+---
 # <span style="color:#800000">Publications</span>
 
 ## <span style="color:#800000">Primary Research</span>
@@ -37,14 +38,14 @@ title: Research
   *Journal of Machine Learning Research*, **24**(323): 1–56, 2024.
  [<span style="color:#800000"><u>SBSS Student Paper Award 2024, American Statistical Association</u></span>]
 
-
+---
 ## <span style="color:#800000">Collaborative Research</span>
 
 - Ogunlusi, O., Sarkar, M., Carter, K., **Chakrabarti, A.**, Boland, D. J., and others. (2025). "[LILRB4 regulates circadian disruption-induced mammary tumorigenesis via non-canonical WNT signaling pathway](https://doi.org/10.1038/s41388-025-03597-5)". *Oncogene*, 2025.
   
 -  Senni, M., Wachter, R., Witte, K. K., Straburzynska-Migaj, E., Belohlavek, J., Fonseca, C., Mueller, C., Lonn, E., **Chakrabarti, A.**, and others. (2020). "[Initiation of sacubitril/valsartan shortly after hospitalisation for acutely decompensated heart failure in patients with newly diagnosed (de novo) heart failure: a subgroup analysis of the TRANSITION study](https://onlinelibrary.wiley.com/doi/full/10.1002/ejhf.1670)". *European Journal of Heart Failure*, vol. **22**, no. 2, pp. 303-312, 2020.
 
-
+---
 ## <span style="color:#800000">Other Contributions</span>
 
 - **Chakrabarti, A.**, Ganguli, B., Nevo, D., Lok, J., Spiegelman, D. (2018 - 2019).  
