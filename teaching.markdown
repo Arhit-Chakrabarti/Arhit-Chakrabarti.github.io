@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Teaching
+weight: 4
 ---
 
 ## Instructor
