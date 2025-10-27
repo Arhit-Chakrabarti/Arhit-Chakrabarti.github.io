@@ -1,3 +1,35 @@
-Hi, I’m Arhit Chakrabarti.
-I’m a final-year PhD candidate in Statistics at Texas A&M University. interested in Bayesian nonparametrics and machine learning.
-This page describes my research and interests.
+---
+layout: default
+title: Research
+---
+
+# Research Interests
+
+- **Bayesian Nonparametrics**  
+- **Machine Learning**  
+- **Computational Statistics**  
+- **Unsupervised Learning**  
+- **Spatial Transciptomics**
+
+## Primary Research
+
+- **Chakrabarti, A.**, Ni, Y., Müller, P., Xu, Y. (2025+). *What's the Pattern: A Fused Bayesian Nonparametric Feature Allocation and Partitions Model.* In preparation.
+
+- **Chakrabarti, A.**, Ni, Y., Müller, P., Xu, Y. (2025+). *A Bayesian Nonparametric Double Partition Model for Extracting Patterns from Patient Health Outcomes.* In preparation.
+
+- **Chakrabarti, A.**, Ni, Y., Jiang, Y., Mallick, B. (2025+). *Nested Atoms Model with Application to Clustering Population-Scale Single-Cell Data.* Submitted.
+
+- **Chakrabarti, A.**, Ni, Y., Pati, D., Mallick, B. (2025). *Global–Local Dirichlet Processes for Clustering Grouped Data in the Presence of Group-Specific Idiosyncratic Variables.* Forty-Second International Conference on Machine Learning (ICML) 2025.  
+  *[<span style="color:#0066cc">[<u>[2025 SETCASA Poster Competition Golden Award]]]*
+
+- **Chakrabarti, A.**, Ni, Y., Pati, D., Mallick, B. (2025). *Global–Local Dirichlet Processes for Identifying Pan-Cancer Subpopulations Using Both Shared and Cancer-Specific Data.*  
+  *The Annals of Applied Statistics*, **19**(3), 2254–2278, September 2025.
+
+- **Chakrabarti, A.**, Ni, Y., Mallick, B. (2024). *Joint Bayesian Estimation of Cell Dependence and Gene Associations in Spatially Resolved Transcriptomic Data.*  
+  *Scientific Reports*, **14**, 9516 (2024).  
+  *[Poster Award, 6th Annual Symposium Cancer Research: Basic Science to Bioinformatics]*
+
+- **Chakrabarti, A.**, Ni, Y., Morris, E.R.A., Salinas, M.L., Chapkin, R.S., Mallick, B. (2024). *Graphical Dirichlet Process for Clustering Non-Exchangeable Grouped Data.*  
+  *Journal of Machine Learning Research*, **24**(323): 1–56, 2024.  
+  *[SBSS Student Paper Award 2024, American Statistical Association]*
+
