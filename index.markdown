@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About Me
-hide_title: true
 permalink: /
+hide_title: true
 ---
 
 <span style="font-size:1.5em; font-weight:600;">About Me</span>
