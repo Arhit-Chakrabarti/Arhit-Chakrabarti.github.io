@@ -5,7 +5,9 @@ permalink: /
 hide_title: true
 ---
 
-### About Me
+<p align="center">
+  <img src="assets/images/Pic.jpg" alt="Arhit Chakrabarti" width="180" style="border-radius:50%;" />
+</p>
 
 I am a final year **Ph.D. candidate in Statistics** at the Department of Statistics, Texas A&M University, College Station, Texas. 
 
