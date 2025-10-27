@@ -43,7 +43,7 @@ title: Research
 -  Senni, M., Wachter, R., Witte, K. K., Straburzynska-Migaj, E., Belohlavek, J., Fonseca, C., Mueller, C., Lonn, E., **Chakrabarti, A.**, and others. (2020). "[Initiation of sacubitril/valsartan shortly after hospitalisation for acutely decompensated heart failure in patients with newly diagnosed (de novo) heart failure: a subgroup analysis of the TRANSITION study](https://onlinelibrary.wiley.com/doi/full/10.1002/ejhf.1670)". *European Journal of Heart Failure*, vol. **22**, no. 2, pp. 303-312, 2020.
 
 
-# Other Contributions
+## Other Contributions
 
 - **Chakrabarti, A.**, Ganguli, B., Nevo, D., Lok, J., Spiegelman, D. (2018 - 2019).  
   "Analysis of “Learn-As-You Go” (LAGO) study and extension for multi-stages and mixed intervention: Application to the ESSENCE study." [code](https://github.com/Arhit-Chakrabarti/logisticLAGO)
