@@ -10,19 +10,19 @@ title: Background
 <p>
   <span style="font-weight:bold; text-decoration:underline; font-size:1.2em;">Doctor of Philosophy (Ph.D.) in Statistics</span><br>
   Texas A&M University, College Station, Texas, USA<br>
-  <strong>2021 - Current</strong>
+  <em>2021 - Current</em>
 </p>
 
 <p>
   <span style="font-weight:bold; text-decoration:underline; font-size:1.2em;">Master of Science (MSc.) in Statistics</span><br>
   University of Calcutta, Kolkata, India<br>
-  <strong>2015 - 2017</strong>
+  <em>2015 - 2017</em>
 </p>
 
 <p>
   <span style="font-weight:bold; text-decoration:underline; font-size:1.2em;">Bachelor of Science (BSc. Hons) in Statistics</span><br>
   Presidency University, Kolkata, India<br>
-  <strong>2012 - 2015</strong>
+  <em>2012 - 2015</em>
 </p>
 
 </div>
@@ -36,19 +36,19 @@ title: Background
 <p>
   <span style="font-weight:bold; text-decoration:underline; font-size:1.2em;">Graduate Teaching, Lecturer, and Research Assistant</span><br>
   Texas A&M University, College Station, Texas, USA<br>
-  <strong>2021 - Current</strong>
+  <em>2021 - Current</em>
 </p>
 
 <p>
   <span style="font-weight:bold; text-decoration:underline; font-size:1.2em;">Senior Biostatistician</span><br>
   Novartis India Ltd. - Early Development Biostatistics<br>
-  <strong>2020 - 2021</strong>
+  <em>2020 - 2021</em>
 </p>
 
 <p>
   <span style="font-weight:bold; text-decoration:underline; font-size:1.2em;">Biostatistician</span><br>
   Novartis India Ltd. - Global Medical Affairs<br>
-  <strong>2017 - 2020</strong>
+  <em>2017 - 2020</em>
 </p>
 
 </div>
