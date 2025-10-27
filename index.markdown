@@ -5,8 +5,7 @@ permalink: /
 hide_title: true
 ---
 
-<span style="font-size:1.5em; font-weight:600;">About Me</span>
-<br><br>
+### About Me
 
 I am a final year **Ph.D. candidate in Statistics** at the Department of Statistics, Texas A&M University, College Station, Texas. 
 
