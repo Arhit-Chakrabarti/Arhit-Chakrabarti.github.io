@@ -5,12 +5,9 @@ permalink: /
 hide_title: true
 ---
 
-<p align="center">
-  <img src="assets/images/Pic.jpg" alt="Arhit Chakrabarti" width="180" style="border-radius:50%;" />
-</p>
+<img src="assets/images/Pic.jpg" alt="Arhit Chakrabarti" width="180" style="border-radius:50%; float:left; margin-right:20px; margin-bottom:10px;" />
 
-I am a final year **Ph.D. candidate in Statistics** at the Department of Statistics, Texas A&M University, College Station, Texas. 
-
+I am a final year **Ph.D. candidate in Statistics** at the Department of Statistics, Texas A&M University, College Station, Texas.
 ---
 
 ### Research Focus
