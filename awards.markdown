@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Awards & Honors
+weight: 5
 ---
 
 <style>
