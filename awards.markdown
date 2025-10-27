@@ -37,7 +37,7 @@ weight: 5
 </ul>
 
 
-## <span style="color:darkblue;">University of Calcutta</span>
+## <span style="color:#800000;">University of Calcutta</span>
 
 <ul style="list-style-type: none; padding-left: 0;">
   <li style="margin-bottom: 10px;">
@@ -53,7 +53,7 @@ weight: 5
 
 ---
 
-## <span style="color:darkgreen;">Presidency University</span>
+## <span style="color:#800000;">Presidency University</span>
 
 <ul style="list-style-type: none; padding-left: 0;">
   <li style="margin-bottom: 10px;">
