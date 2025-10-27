@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Research
+weight: 3
 ---
 
 # <span style="color:#800000">Research Interests</span>
