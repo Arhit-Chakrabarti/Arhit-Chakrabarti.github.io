@@ -11,6 +11,8 @@ title: Research
 - **Unsupervised Learning**  
 - **Spatial Transciptomics**
 
+*See my google scholar profile [here](https://scholar.google.com/citations?user=bktKcZQAAAAJ&hl=en) for the most updated list of publications*.
+
 ## Primary Research
 
 - **Chakrabarti, A.**, Ni, Y., Müller, P., Xu, Y. (2025+). "What's the Pattern: A Fused Bayesian Nonparametric Feature Allocation and Partitions Model". *In preparation*.
@@ -44,11 +46,10 @@ title: Research
 # Other Contributions
 
 - **Chakrabarti, A.**, Ganguli, B., Nevo, D., Lok, J., Spiegelman, D. (2018 - 2019).  
-  "Analysis of “Learn-As-You Go” (LAGO) study and extension for multi-stages and mixed intervention: Application to the ESSENCE study" [<span style="color:#800000"><u>code</u></span>(https://github.com/Arhit-Chakrabarti/logisticLAGO)]
+  "Analysis of “Learn-As-You Go” (LAGO) study and extension for multi-stages and mixed intervention: Application to the ESSENCE study." [code](https://github.com/Arhit-Chakrabarti/logisticLAGO)
 
 - **Chakrabarti, A.**, Ganguli, B. (2017 - 2018).  
-  "Functional Data Analysis for Gait Data"
+  "Functional Data Analysis for Gait Data."
 
 - **Chakrabarti, A.** (2016 - 2017).  
-  e-Pathshala online lectures on [Principal Component Analysis(https://www.youtube.com/watch?v=W6oaWajCIG8), [Factor Analysis](https://www.youtube.com/watch?v=C4sYR2az_1c), [Bayesian Analysis](https://www.youtube.com/watch?v=OeNdoZOH-Bs), and [Multivariate Analysis](https://www.youtube.com/watch?v=o5o9NentGuA),  
-  as part of University of Calcutta and Government of India’s initiative to impart higher education for everyone
+  e-Pathshala online lectures on [Principal Component Analysis](https://www.youtube.com/watch?v=W6oaWajCIG8), [Factor Analysis](https://www.youtube.com/watch?v=C4sYR2az_1c), [Bayesian Analysis](https://www.youtube.com/watch?v=OeNdoZOH-Bs), and [Multivariate Analysis](https://www.youtube.com/watch?v=o5o9NentGuA), as part of University of Calcutta and Government of India’s initiative to impart higher education for everyone.
