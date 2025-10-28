@@ -6,10 +6,6 @@
   <a href="/awards.html">Awards</a> 
 </nav>
 
----
-layout: default
-title: Research
----
 
 # <span style="color:#800000">Research Interests</span>
 
