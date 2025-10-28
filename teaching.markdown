@@ -3,7 +3,8 @@
   <a href="/background.html">Background</a> |
   <a href="/research.html">Research</a> |
   <a href="/teaching.html">Teaching</a> |
-  <a href="/awards.html">Awards</a> 
+  <a href="/awards.html">Awards</a> |
+  <a href="/cv.html">CV</a>
 </nav>
 
 ## Instructor
