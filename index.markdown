@@ -8,11 +8,6 @@
   <a href="/cv.html">CV</a>
 </nav>
 
-<!-- Homepage welcome + social links -->
-<div style="margin-top:15px;">
-  {{ site.homepage_description | markdownify }}
-</div>
-
 <!-- Image and introduction wrapped in HTML to allow float -->
 <div>
   <img src="assets/images/Pic.jpg" alt="Arhit Chakrabarti" width="300" style="float:left; margin-right:20px; margin-bottom:10px;" />
