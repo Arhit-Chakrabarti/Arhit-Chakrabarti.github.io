@@ -1,4 +1,4 @@
-<meta name="google-site-verification" content="L9BFXd4m2lDM2yYXggmrqE021iawiQ-UhPvY50CZCTI" />
+<!-- <meta name="google-site-verification" content="L9BFXd4m2lDM2yYXggmrqE021iawiQ-UhPvY50CZCTI" /> -->
 
 <!-- Navigation -->
 <nav style="text-align:center; font-size: 18px; margin-bottom: 20px;">
@@ -9,6 +9,8 @@
   <a href="/awards.html">Awards</a> |
   <a href="/cv.html">CV</a>
 </nav>
+
+<meta name="google-site-verification" content="L9BFXd4m2lDM2yYXggmrqE021iawiQ-UhPvY50CZCTI" />
 
 <!-- Image and introduction wrapped in HTML to allow float -->
 <div>
