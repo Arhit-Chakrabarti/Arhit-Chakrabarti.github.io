@@ -14,7 +14,7 @@
     <strong>Semester:</strong> Summer, 2023<br>
     <strong>Course Level:</strong> Undergraduate<br>
     <strong>Duties:</strong> Design course materials, deliver lectures, create assignments, and exams. Hold office hours for students. <br>
-    <strong>Overall Course Rating:</strong> 4/0/5.0 (response rate 71%)
+    <strong>Overall Course Rating:</strong> 4.0/5.0 (response rate 71%)
 
   </p>
 </div>
