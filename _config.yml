@@ -19,19 +19,20 @@
 # in the templates via {{ site.myvariable }}.
 title: Arhit Chakrabarti
 email: arhit.chakrabarti@tamu.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my homepage!
+description: >
+  Welcome to my homepage! You can connect with me on:
+  <br><br>
   <!-- Social Links -->
-  <a href="mailto:arhit.chakrabarti@tamu.edu" title="Email">
+  <a href="mailto:arhit.chakrabarti@tamu.edu" title="Email" style="margin:0 5px;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="24" />
   </a>
-  <a href="https://github.com/Arhit-Chakrabarti" title="GitHub">
+  <a href="https://github.com/Arhit-Chakrabarti" title="GitHub" style="margin:0 5px;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="24" />
   </a>
-  <a href="https://www.linkedin.com/in/arhit-chakrabarti-732088101" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/arhit-chakrabarti-732088101" title="LinkedIn" style="margin:0 5px;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="24" />
   </a>
-  <a href="https://scholar.google.com/citations?user=bktKcZQAAAAJ&hl=en" title="Google Scholar">
+  <a href="https://scholar.google.com/citations?user=bktKcZQAAAAJ&hl=en" title="Google Scholar" style="margin:0 5px;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" width="24" />
   </a>
 baseurl: "" # the subpath of your site, e.g. /blog
