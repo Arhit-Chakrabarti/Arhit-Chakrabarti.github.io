@@ -7,11 +7,6 @@
   <a href="/cv.html">CV</a>
 </nav>
 
-<!-- Other pages: only social links -->
-<div style="margin-top:15px;">
-  {{ site.social_links | markdownify }}
-</div>
-
 ## Education
 
 <div style="margin-bottom: 30px; padding: 15px; background-color:#f9f9f9; border-left:5px solid #800000; border-radius:5px;">
