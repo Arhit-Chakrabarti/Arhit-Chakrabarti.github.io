@@ -6,10 +6,6 @@
   <a href="/awards.html">Awards</a> 
 </nav>
 
----
-layout: default
-title: Background
----
 
 ## Education
 
