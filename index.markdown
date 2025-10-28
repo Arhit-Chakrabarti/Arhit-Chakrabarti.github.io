@@ -7,6 +7,9 @@
   <a href="/cv.html">CV</a>
 </nav>
 
+<!-- Homepage: welcome + social links -->
+<div style="margin-top:15px;">
+  {{ site.homepage_description | markdownify }}
 
 <!-- Profile picture floated left -->
 <img src="assets/images/Pic.jpg" alt="Arhit Chakrabarti" width="300" style="float:left; margin-right:20px; margin-bottom:10px;" />
@@ -19,7 +22,4 @@ Prior to joining the Ph.D. program, I completed my undergraduate (BSc.) and mast
 
 <div style="clear: both;"></div>
 
-<!-- Homepage: welcome + social links -->
-<div style="margin-top:15px;">
-  {{ site.homepage_description | markdownify }}
 </div>
