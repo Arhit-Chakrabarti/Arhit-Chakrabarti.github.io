@@ -14,22 +14,23 @@
     <strong>Emanuel Parzen Graduate Research Fellowship Award</strong> – for demonstrating exemplary research, above and beyond what is expected for graduation <span style="float:right;"><em>2025</em></span>
   </li>
   <li style="margin-bottom: 10px;">
-    <strong>IMS Hannan Graduate Student Travel Award</strong> – for presenting "<em>Global-Local Dirichlet Processes for Clustering Grouped Data in the Presence of Group-Specific Idiosyncratic Variables</em>" at the 14th International Conference on Bayesian Nonparametrics, UCLA, USA <span style="float:right;"><em>2025</em></span>
+    <strong>IMS Hannan Graduate Student Travel Award</strong> – for presenting "<em><a href="https://openreview.net/forum?id=urbvnjSGbE">Global–Local Dirichlet Processes for Clustering Grouped Data in the Presence of Group-Specific Idiosyncratic Variables</a></em>" at the 14th International Conference on Bayesian Nonparametrics, UCLA, USA <span style="float:right;"><em>2025</em></span>
   </li>
   <li style="margin-bottom: 10px;">
-    <strong>2025 SETCASA Poster Competition Golden Award</strong> – for poster on "<em>Global-Local Dirichlet Processes for Clustering Grouped Data in the Presence of Group-Specific Idiosyncratic Variables</em>" <span style="float:right;"><em>2025</em></span>
+    <strong>2025 SETCASA Poster Competition Golden Award</strong> – for poster on "<em><a href="https://openreview.net/forum?id=urbvnjSGbE">Global–Local Dirichlet Processes for Clustering Grouped Data in the Presence of Group-Specific Idiosyncratic Variables</a></em>" <span style="float:right;"><em>2025</em></span>
   </li>
   <li style="margin-bottom: 10px;">
     <strong>BNP-ISBA Travel Award</strong> – for presenting at the 14th International Conference on Bayesian Nonparametrics, UCLA, USA <span style="float:right;"><em>2025</em></span>
   </li>
   <li style="margin-bottom: 10px;">
-    <strong>SBSS Student Paper Award</strong> – for "<em>Graphical Dirichlet Process for Clustering Non-Exchangeable Grouped Data</em>", awarded by the American Statistical Association <span style="float:right;"><em>2024</em></span>
+    <strong>SBSS Student Paper Award</strong> – for
+    "<em><a href="https://jmlr.org/papers/v25/23-1048.html">Graphical Dirichlet Process for Clustering Non-Exchangeable Grouped Data</a></em>", awarded by the American Statistical Association <span style="float:right;"><em>2024</em></span>
   </li>
   <li style="margin-bottom: 10px;">
     <strong>ISBA Travel Award</strong> – for presenting at the ISBA World Meeting, Venice, Italy <span style="float:right;"><em>2024</em></span>
   </li>
   <li style="margin-bottom: 10px;">
-    <strong>Poster Award</strong> – for poster on "<em>Joint Bayesian estimation of cell dependence and gene associations in spatially resolved transcriptomic data</em>", awarded by the 6th Annual Symposium Cancer Research <span style="float:right;"><em>2023</em></span>
+    <strong>Poster Award</strong> – for poster on "<em><a href="https://doi.org/10.1038/s41598-024-60002-z">Joint Bayesian estimation of cell dependence and gene associations in spatially resolved transcriptomic data</a></em>", awarded by the 6th Annual Symposium Cancer Research <span style="float:right;"><em>2023</em></span>
   </li>
   <li style="margin-bottom: 10px;">
     <strong>ISBA Travel Award</strong> – for presenting at Bayesian Nonparametrics Networking Workshop, Melbourne, Australia <span style="float:right;"><em>2023</em></span>
