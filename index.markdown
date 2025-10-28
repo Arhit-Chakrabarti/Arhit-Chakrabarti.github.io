@@ -12,13 +12,13 @@
 <div>
   <img src="assets/images/Pic.jpg" alt="Arhit Chakrabarti" width="300" style="float:left; margin-right:20px; margin-bottom:10px;" />
   <p>
-    I am a final year <strong>Ph.D. candidate in statistics</strong> at the Department of Statistics, Texas A&M University, College Station, Texas. 
+    I am a final year <strong>Ph.D. candidate</strong> in <strong>statistics</strong> at the Department of Statistics, Texas A&M University, College Station, Texas. 
   </p>
   <p>
     My primary research focuses on <strong>Bayesian nonparametrics</strong>, <strong>machine learning</strong>, and <strong>artificial intelligence</strong>. Particularly, my research deals with <strong>Bayesian nonparametric clustering</strong> and <strong>feature allocation</strong> of complex data in the presence of additional information, with applications spanning <strong>genetics, multi-omics, spatial transcriptomics, health outcomes</strong>, and beyond.
   </p>
   <p>
-    Prior to joining the Ph.D. program, I earned a <strong>Bachelor of Science</strong> (<strong>BSc.</strong>) in <strong>statistics</strong> from <strong>Presidency University</strong>, India, followed by a <strong>Master of Science</strong> (<strong>MSc.</strong>) in <strong>statistics</strong> from <strong>University of Calcutta</strong>, India. Subsequently, I worked at <strong>Novartis India Ltd.</strong> as a biostatistician for several years.
+    Prior to joining the Ph.D. program, I earned a <strong>Bachelor of Science</strong> (<strong>BSc.</strong>) in <strong>statistics</strong> from Presidency University, Kolkata, India, followed by a <strong>Master of Science</strong> (<strong>MSc.</strong>) in <strong>statistics</strong> from University of Calcutta, Kolkata, India. Subsequently, I worked at <strong>Novartis India Ltd.</strong> as a biostatistician for several years.
   </p>
   <div style="clear: both;"></div>
 </div>
