@@ -1,2 +1,2 @@
-# Arhit-Chakrabarti.github.io
+# Arhit Chakrabarti
 Personal Website
