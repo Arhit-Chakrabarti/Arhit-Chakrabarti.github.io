@@ -7,11 +7,6 @@
   <a href="/cv.html">CV</a>
 </nav>
 
-<!-- Other pages: only social links -->
-<div style="margin-top:15px;">
-  {{ site.social_links | markdownify }}
-</div>
-
 ## Instructor
 <div style="margin-bottom: 20px;">
   <p>
