@@ -19,3 +19,4 @@ Prior to joining the Ph.D. program, I completed my undergraduate (BSc.) and mast
 
 <div style="clear: both;"></div>
 
+{% include social.html %}
