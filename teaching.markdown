@@ -12,7 +12,10 @@
   <p>
     <span style="color:#800000; font-weight:bold; text-decoration:underline;">STAT 201: Elementary Statistical Inference</span><br>
     <strong>Semester:</strong> Summer, 2023<br>
-    <strong>Course Level:</strong> Undergraduate
+    <strong>Course Level:</strong> Undergraduate<br>
+    <strong>Duties:</strong> Design course materials, deliver lectures, create assignments, and exams. Hold office hours for students. <br>
+    <strong>Overall Course Rating:</strong> 4/0/5.0 (response rate 71%)
+
   </p>
 </div>
 
@@ -21,7 +24,8 @@
   <p>
     <span style="color:#800000; font-weight:bold; text-decoration:underline;">STAT 632: Statistical Methodology II - Bayesian Modeling and Inference</span><br>
     <strong>Semester:</strong> Spring, 2025<br>
-    <strong>Course Level:</strong> PhD
+    <strong>Course Level:</strong> PhD<br>
+    <strong>Duties:</strong> Gave lectures on variational Bayesian inference: theory and computations. 
   </p>
 </div>
 
