@@ -7,6 +7,11 @@
   <a href="/cv.html">CV</a>
 </nav>
 
+<!-- Other pages: only social links -->
+<div style="margin-top:15px;">
+  {{ site.social_links | markdownify }}
+</div>
+
 ## <span style="color:#800000;">Texas A&M University</span>
 
 <ul style="list-style-type: none; padding-left: 0;">
