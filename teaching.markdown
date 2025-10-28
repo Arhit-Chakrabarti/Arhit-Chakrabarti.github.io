@@ -1,8 +1,3 @@
----
-layout: default
-title: Teaching
----
-
 <nav style="text-align:center; font-size: 18px; margin-bottom: 20px;">
   <a href="/index.html">Home</a> |
   <a href="/background.html">Background</a> |
