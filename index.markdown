@@ -1,3 +1,11 @@
+<nav style="text-align:center; font-size: 18px; margin-bottom: 20px;">
+  <a href="/index.html">Home</a> |
+  <a href="/background.html">Background</a> |
+  <a href="/research.html">Research</a> |
+  <a href="/teaching.html">Teaching</a> |
+  <a href="/awards.html">Awards</a> |
+</nav>
+
 ---
 layout: page
 title: About Me
