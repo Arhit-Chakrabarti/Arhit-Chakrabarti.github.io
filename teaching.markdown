@@ -1,8 +1,15 @@
 ---
 layout: default
 title: Teaching
-weight: 4
 ---
+
+<nav style="text-align:center; font-size: 18px; margin-bottom: 20px;">
+  <a href="/index.html">Home</a> |
+  <a href="/background.html">Background</a> |
+  <a href="/research.html">Research</a> |
+  <a href="/teaching.html">Teaching</a> |
+  <a href="/awards.html">Awards</a> 
+</nav>
 
 ## Instructor
 <div style="margin-bottom: 20px;">
