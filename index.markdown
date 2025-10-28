@@ -19,7 +19,7 @@ Prior to joining the Ph.D. program, I completed my undergraduate (BSc.) and mast
 
 <div style="clear: both;"></div>
 
-<!-- Social links from _config.yml -->
+<!-- Homepage: welcome + social links -->
 <div style="margin-top:15px;">
-  {{ site.description | markdownify }}
+  {{ site.homepage_description | markdownify }}
 </div>
