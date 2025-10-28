@@ -7,11 +7,6 @@
   <a href="/cv.html">CV</a>
 </nav>
 
----
-layout: page
-title: Home
-permalink: /
----
 
 <!-- Profile picture floated left -->
 <img src="assets/images/Pic.jpg" alt="Arhit Chakrabarti" width="300" style="float:left; margin-right:20px; margin-bottom:10px;" />
