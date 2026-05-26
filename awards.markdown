@@ -11,7 +11,7 @@
 
 <ul style="list-style-type: none; padding-left: 0;">
   <li style="margin-bottom: 10px;">
-  <strong>Third Place Award at 2026 Best of Statistical Science (BOSS) Workshop</strong> – for presenting "<em> Nested Atoms Model with Application to Clustering Big Population-Scale Single-Cell Data (April, 2026) </em>" <span style="float:right;"><em>2025</em></span>
+  <strong>Third Place Award at 2026 Best of Statistical Science (BOSS) Workshop</strong> – for presenting "<em>Nested Atoms Model with Application to Clustering Big Population-Scale Single-Cell Data</em>" <span style="float:right;"><em>April, 2026</em></span>
   </li>
   <li style="margin-bottom: 10px;">
     <strong>Emanuel Parzen Graduate Research Fellowship Award</strong> – for demonstrating exemplary research, above and beyond what is expected for graduation <span style="float:right;"><em>2025</em></span>
