@@ -38,9 +38,15 @@
 <div style="margin-bottom: 30px; padding: 15px; background-color:#f9f9f9; border-left:5px solid #800000; border-radius:5px;">
 
 <p>
+  <span style="font-weight:bold; text-decoration:underline; font-size:1.2em;">Postdoctoral Fellow</span><br>
+  The University of Texas at Austin, Texas, USA<br>
+  <em>2026 - Current</em>
+</p>
+
+<p>
   <span style="font-weight:bold; text-decoration:underline; font-size:1.2em;">Graduate Teaching, Lecturer, and Research Assistant</span><br>
   Texas A&M University, College Station, Texas, USA<br>
-  <em>2021 - Current</em>
+  <em>2021 - 2026</em>
 </p>
 
 <p>
