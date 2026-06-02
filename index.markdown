@@ -14,6 +14,7 @@
   <img src="assets/images/Pic.jpg" alt="Arhit Chakrabarti" width="300" style="float:left; margin-right:20px; margin-bottom:10px;" />
   <p>
     I am currently a <strong>Postdoctoral Fellow</strong> in the Department of Statistics and Data Sciences at <strong>The University of Texas at Austin</strong>. My research is conducted in collaboration with <strong>Peter M&uuml;ller</strong> and <strong>Yang Ni</strong> at UT Austin as well as <strong>Yanxun Xu</strong> from the Department of Applied Mathematics and Statistics at <strong>Johns Hopkins University</strong>.
+</p>
     Prior to joining UT Austin, I completed my <strong>Ph.D.</strong> in <strong>statistics</strong> from the Department of Statistics at Texas A&M University, College Station, Texas. 
   </p>
   <p>
