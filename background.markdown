@@ -14,7 +14,7 @@
 <p>
   <span style="font-weight:bold; text-decoration:underline; font-size:1.2em;">Doctor of Philosophy (Ph.D.) in Statistics</span><br>
   Texas A&M University, College Station, Texas, USA<br>
-  <em>2021 - Current</em>
+  <em>2021 - 2026</em>
 </p>
 
 <p>
