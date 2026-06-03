@@ -1,4 +1,3 @@
-```html
 <!-- Navigation -->
 <nav style="text-align:center; font-size:18px; margin-bottom:20px;">
   <a href="/index.html">Home</a> |
@@ -76,5 +75,3 @@
     </p>
   </div>
 </div>
-```
-
