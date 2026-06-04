@@ -26,4 +26,4 @@
 </p>
 
 <!-- Embed PDF inline -->
-<iframe src="assets/files/CV_Arhit_Chakrabarti.pdf" width="100%" height="800px" style="border:1px solid #ccc; margin-top:10px;"></iframe>
+<iframe src="assets/files/CV_Arhit_PostPhD.pdf" width="100%" height="800px" style="border:1px solid #ccc; margin-top:10px;"></iframe>
