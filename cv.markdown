@@ -15,7 +15,7 @@
 
 <!-- Download link -->
 <p>
-  <a href="assets/files/CV_Arhit_Chakrabarti.pdf" download style="font-weight:bold; font-size:1.1em;">
+  <a href="assets/files/CV_Arhit_PostPhD.pdf" download style="font-weight:bold; font-size:1.1em;">
     📄 Download CV
   </a>
 </p>
