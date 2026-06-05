@@ -13,7 +13,7 @@
 <div> 
   <img src="assets/images/Pic.jpg" 
     alt="Arhit Chakrabarti" 
-    width="150" 
+    width="250" 
     align="left" 
     style="margin-right:20px; margin-bottom:10px;" /> 
   
