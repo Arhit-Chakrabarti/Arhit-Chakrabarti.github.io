@@ -44,7 +44,7 @@
 </p>
 
 <p>
-  <span style="font-weight:bold; text-decoration:underline; font-size:1.2em;">Graduate Teaching, Lecturer, and Research Assistant</span><br>
+  <span style="font-weight:bold; text-decoration:underline; font-size:1.2em;">Graduate Teaching Assistant, Graduate Lecturer, and Research Assistant</span><br>
   Texas A&M University, College Station, Texas, USA<br>
   <em>2021 - 2026</em>
 </p>
