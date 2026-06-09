@@ -24,7 +24,7 @@ email: arhit.chakrabarti@tamu.edu
 description: >
   Welcome to my personal website. You can connect with me through the following channels:
   <br><br>
-  <a href="mailto:arhit.chakrabarti@tamu.edu" title="Email" style="margin:0 5px;">
+  <a href="mailto:arhit.chakrabarti@austin.utexas.edu" title="Email" style="margin:0 5px;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="24" />
   </a>
   <a href="https://github.com/Arhit-Chakrabarti" title="GitHub" style="margin:0 5px;">
@@ -33,13 +33,13 @@ description: >
   <a href="https://www.linkedin.com/in/arhit-chakrabarti-732088101" title="LinkedIn" style="margin:0 5px;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="24" />
   </a>
-  <a href="https://scholar.google.com/citations?user=bktKcZQAAAAJ&hl=en" title="Google Scholar" style="margin:0 5px;">
+  <a href="https://scholar.google.com/citations?user=SCS8LnsAAAAJ&hl=en" title="Google Scholar" style="margin:0 5px;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" width="24" />
   </a>
 baseurl: "" # the subpath of your site, e.g. /blog
 github_username: Arhit-Chakrabarti
 linkedin: https://www.linkedin.com/in/arhit-chakrabarti-732088101
-google_scholar: https://scholar.google.com/citations?user=bktKcZQAAAAJ&hl=en
+google_scholar: https://scholar.google.com/citations?user=SCS8LnsAAAAJ&hl=en
 # Build settings
 # theme: minima
 # plugins:
