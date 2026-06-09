@@ -15,7 +15,7 @@
 - **Unsupervised Learning**  
 - **Spatial Transciptomics**
 
-*See my google scholar profile [here](https://scholar.google.com/citations?user=bktKcZQAAAAJ&hl=en) for the most updated list of publications*.
+*See my google scholar profile [here](https://scholar.google.com/citations?user=SCS8LnsAAAAJ&hl=en) for the most updated list of publications*.
 
 ---
 # <span style="color:#800000">Publications</span>
