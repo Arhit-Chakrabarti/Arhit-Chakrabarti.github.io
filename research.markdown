@@ -26,7 +26,7 @@
 
 - **Chakrabarti, A.**, Ni, Y., Müller, P., Xu, Y. (2026+). "A Bayesian Nonparametric Double Partition Model for Extracting Patterns from Patient Health Outcomes". *In preparation*.
 
-- **Chakrabarti, A.**, Ni, Y., Jiang, Y., Mallick, B. (2026). "Nested Atoms Model with Application to Clustering Population-Scale Single-Cell Data". Just Accepted, *The Annals of Applied Statistics*.
+- **Chakrabarti, A.**, Ni, Y., Jiang, Y., Mallick, B. (2026). "Nested Atoms Model with Application to Clustering Population-Scale Single-Cell Data". Just Accepted, *The Annals of Applied Statistics*. [<span style="color:#800000"><u>Third Place Award at 2026 Best of Statistical Science (BOSS) Workshop</u></span>]
 
 - **Chakrabarti, A.**, Ni, Y., Pati, D., Mallick, B. (2025). "[Global–Local Dirichlet Processes for Clustering Grouped Data in the Presence of Group-Specific Idiosyncratic Variables](https://openreview.net/forum?id=urbvnjSGbE)". Forty-Second International Conference on Machine Learning (ICML) 2025.  
   [<span style="color:#800000"><u>2025 SETCASA Poster Competition Golden Award</u></span>]
