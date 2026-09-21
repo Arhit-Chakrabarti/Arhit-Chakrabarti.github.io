@@ -22,7 +22,7 @@
 </p> 
 
 <p>
-  My primary research focuses on <strong>Bayesian nonparametrics</strong>, <strong>machine learning</strong>, and <strong>artificial intelligence</strong>. Particularly, my research deals with <strong>Bayesian nonparametric clustering</strong> and <strong>feature allocation</strong> of complex data in the presence of additional information, with applications spanning <strong>genetics, multi-omics, spatial transcriptomics, health outcomes</strong>, and beyond. 
+  My primary research focuses on <strong>Bayesian nonparametrics</strong> and <strong>machine learning</strong>. Particularly, my research deals with <strong>Bayesian nonparametric clustering</strong> and <strong>feature allocation</strong> of complex data in the presence of additional information, with applications spanning <strong>genetics, multi-omics, spatial transcriptomics, health outcomes</strong>, and beyond. 
 </p> 
 
 <p> 
