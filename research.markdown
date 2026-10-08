@@ -26,7 +26,7 @@
 
 - **Chakrabarti, A.**, Ni, Y., Müller, P., Xu, Y. (2026+). "A Bayesian Nonparametric Double Partition Model for Extracting Patterns from Patient Health Outcomes". *In preparation*.
 
-- **Chakrabarti, A.**, Ni, Y., Jiang, Y., Mallick, B. (2026). "Nested Atoms Model with Application to Clustering Population-Scale Single-Cell Data". Just Accepted, *The Annals of Applied Statistics*. [<span style="color:#800000"><u>Third Place Award at 2026 Best of Statistical Science (BOSS) Workshop</u></span>]
+- **Chakrabarti, A.**, Ni, Y., Jiang, Y., Mallick, B. (2026). "[Nested Atoms Model with Application to Clustering Population-Scale Single-Cell Data](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-20/issue-3/Nested-atoms-model-with-application-to-clustering-big-population-scale/10.1214/26-AOAS2224.short)". *The Annals of Applied Statistics*, **20**(3), 2098-2124, September 2026. [<span style="color:#800000"><u>Third Place Award at 2026 Best of Statistical Science (BOSS) Workshop</u></span>]
 
 - **Chakrabarti, A.**, Ni, Y., Pati, D., Mallick, B. (2025). "[Global–Local Dirichlet Processes for Clustering Grouped Data in the Presence of Group-Specific Idiosyncratic Variables](https://openreview.net/forum?id=urbvnjSGbE)". Forty-Second International Conference on Machine Learning (ICML) 2025.  
   [<span style="color:#800000"><u>2025 SETCASA Poster Competition Golden Award</u></span>]
@@ -45,6 +45,10 @@
 ---
 ## <span style="color:#800000">Collaborative Research</span>
 
+- Chandrasekaran, B., Kumar, Y. K., Nair, D. T., Olugbami, J., Tyagi, A., Shukla, V., **Chakrabarti, A.**, and others. (2026+). "Multi-Mechanistic Targeting of Androgen Receptor and Epigenetic Networks by Novel Antiandrogen–HDACi Compounds in Castration-Resistant Prostate Cancer". *Submitted*.
+  
+- Tyagi, A., Chandrasekaran, B., Shukla, V., Nair, D. T., Tyagi, B., Singh, A., Kim, S., Seeley, E. H., **Chakrabarti, A.**, Ni, Y., and others. (2026). "Spatial Multi-Omics Uncovers Distinct Transcriptional and Metabolic Responses to AR-NTD Degradation in CRPC". *Just accepted. Theranostics*.
+  
 - Ogunlusi, O., Sarkar, M., Carter, K., **Chakrabarti, A.**, Boland, D. J., and others. (2025). "[LILRB4 regulates circadian disruption-induced mammary tumorigenesis via non-canonical WNT signaling pathway](https://doi.org/10.1038/s41388-025-03597-5)". *Oncogene*, 2025.
   
 -  Senni, M., Wachter, R., Witte, K. K., Straburzynska-Migaj, E., Belohlavek, J., Fonseca, C., Mueller, C., Lonn, E., **Chakrabarti, A.**, and others. (2020). "[Initiation of sacubitril/valsartan shortly after hospitalisation for acutely decompensated heart failure in patients with newly diagnosed (de novo) heart failure: a subgroup analysis of the TRANSITION study](https://onlinelibrary.wiley.com/doi/full/10.1002/ejhf.1670)". *European Journal of Heart Failure*, vol. **22**, no. 2, pp. 303-312, 2020.
